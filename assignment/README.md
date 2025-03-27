@@ -1,4 +1,4 @@
-# NumPy Assignment
+# NumPy Matrix and Stats
 
 ## Task
 
