@@ -1,0 +1,20 @@
+{
+  "tests/test_matrix_ops.py::test_matrix_multiply_square": 1.0,
+  "tests/test_matrix_ops.py::test_matrix_multiply_rectangular": 1.0,
+  "tests/test_matrix_ops.py::test_matrix_multiply_identity": 1.0,
+  "tests/test_matrix_ops.py::test_matrix_inverse_square": 1.0,
+  "tests/test_matrix_ops.py::test_matrix_inverse_identity": 1.0,
+  "tests/test_matrix_ops.py::test_matrix_inverse_inverse": 1.0,
+
+  "tests/test_stats_ops.py::test_mean_simple": 1.0,
+  "tests/test_stats_ops.py::test_mean_negative": 1.0,
+  "tests/test_stats_ops.py::test_mean_floats": 1.0,
+  "tests/test_stats_ops.py::test_std_dev_simple": 1.0,
+  "tests/test_stats_ops.py::test_std_dev_zero": 1.0,
+  "tests/test_stats_ops.py::test_std_dev_negative": 1.0,
+
+  "tests/test_matrix_ops_hidden.py::test_matrix_multiply_large": 2.0,
+  "tests/test_matrix_ops_hidden.py::test_matrix_inverse_edge": 2.0,
+  "tests/test_stats_ops_hidden.py::test_mean_large_dataset": 1.5,
+  "tests/test_stats_ops_hidden.py::test_std_dev_precision": 1.5
+}
